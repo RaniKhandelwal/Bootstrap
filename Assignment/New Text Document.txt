@@ -1,0 +1,13 @@
+Module (Bootstrap Basic & Advanced) – 6
+
+1. What are the advantages of Bootstrap?
+ans. Advantages of bootstrap are:-
+Responsive design
+Pre-built components
+Easy to use
+Customization
+Mobile-First
+2. What is a Bootstrap Container, and how does it work?
+ans. Contaners are the basic layout of the bootstrap.we can add elements and contant in container.
+there are three types of container:- 1.Default container, 2.Responsive container, 3.Fluid-container .
+
