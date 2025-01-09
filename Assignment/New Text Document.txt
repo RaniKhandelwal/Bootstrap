@@ -11,3 +11,37 @@ Mobile-First
 ans. Contaners are the basic layout of the bootstrap.we can add elements and contant in container.
 there are three types of container:- 1.Default container, 2.Responsive container, 3.Fluid-container .
 
+4.Bootstrap Button
+<div class="btn-group" role="group">
+  <button type="button" class="btn btn-primary">Button 1</button>
+  <button type="button" class="btn btn-primary">Button 2</button>
+  <button type="button" class="btn btn-primary">Button 3</button>
+</div>
+
+5.Bootstrap thumbnail
+<img src="image.jpg" class="img-thumbnail" alt="Thumbnail">
+
+6. Flexbox in Bootstrap 4
+Bootstrap 4 uses Flexbox for its grid system and provides utilities such as:
+Alignment: .align-items-center, .justify-content-between.
+Direction: .flex-row, .flex-column.
+Responsive Flex: .d-flex, .d-md-flex.
+
+7. Creating an Alert in Bootstrap
+Bootstrap provides predefined alert styles using the .alert class.
+Example:
+html
+Copy code
+<div class="alert alert-success" role="alert">
+  This is a success alert!
+</div>
+
+8.Bootstrap card
+<div class="card" style="width: 18rem;">
+  <img src="image.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card Title</h5>
+    <p class="card-text">Some quick example text.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
