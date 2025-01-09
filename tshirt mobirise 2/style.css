@@ -1,0 +1,47 @@
+.fa-face-smile,.fa-shirt,.fa-layer-group,.fa-palette{
+    color: #a8d741;
+    }
+    .button,.btn,.bg,.action-main,.message-box,.professional-row{
+        background: #a8d741;
+    }
+    .print ,.slogan{
+        background: #f8f9fa;
+    }
+    .information ,.steven-row,.contact-cards,.partner-card,.card{
+        background: #e4e5e5;
+    }
+    i{
+        color: #a8d741;
+    }
+    .video{
+        position: relative;
+    }
+    .effect:hover{
+        transform: rotate(-3deg);
+        box-shadow:8px 10px 10px 8px #b8b7b7;
+        transition:.3s;
+    }
+    .btn:hover,.get:hover{
+        box-shadow: 2px 3px 3px 2px #b8b7b7;
+        background: white;
+        color: black;
+        transform:scale(1.1);
+        transform: rotate(-5deg);
+    }
+    .get{
+        background: black;
+    }
+    .fa-youtube{
+        font-size: 60px;
+        position: absolute;
+        top:50%;
+        left:50%;
+    }
+    img{
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+    .images{
+        height: 200px;
+    }
